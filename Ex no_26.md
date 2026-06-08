@@ -7,7 +7,7 @@ To write a C program to demonstrate a self-referential structure where an employ
 1. Start.
 2. Create a structure and data member using pointer.
 3. Prompt the user to enter a value.
-4. Print the structure values.
+4. Print the structure values. 
 5. End.
 
 ## Program:
