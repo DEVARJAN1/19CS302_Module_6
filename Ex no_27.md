@@ -7,7 +7,7 @@ To write a C program that demonstrates the use of typedef to create a new alias 
 2. Declare a variable value of type char.
 3. Prompt the user to enter a value.
 4. Read the value using scanf.
-5. Check eligible for marriage.
+5. Check eligible for marriage. 
 6. If age >= 21, print "Eligible".
 7. If false, print " Not Eligible".
 8. End.   
