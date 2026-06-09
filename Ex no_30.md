@@ -8,7 +8,7 @@ To write a C program to add two float elements in an array using realloc() and t
 2. Declare array size
 3. Initialize array elements using malloc()
 4. Update array size using realloc()
-5. Print the result.
+5. Print the result. 
 6. End. 
 
 ## Program:
