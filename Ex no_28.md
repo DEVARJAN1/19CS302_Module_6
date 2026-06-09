@@ -10,7 +10,7 @@ To write a C program that demonstrates the use of enum (enumeration) type to def
 4. Print result
 5. End
 6. 
-## Program:
+## Program: 
 ```
 #include <stdio.h>
 enum weekdays{ Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday};
