@@ -8,7 +8,7 @@ To write a C program to create two float variables using calloc() and find minim
 2. Initialize two variables value of calloc().
 3. Prompt the user to enter values.
 4. Read the values using scanf.
-5. Find minimum and print result
+5. Find minimum and print result 
 6. End   
 
 ## Program:
